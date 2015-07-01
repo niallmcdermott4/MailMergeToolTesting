@@ -1,0 +1,6 @@
+The customer, Dr Clement Okon, wants us to create a mail merge tool.
+
+The customer will supply us with a text file containing a list of customers and a tokenized letter. For everyone of those customers, he wants us
+to generate a letter and print it. A sample letter has been included.
+
+The customer has ensured us its not a scam.
